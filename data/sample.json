@@ -1,0 +1,33 @@
+{
+  "dimension": 2,
+  "rows": [
+    {
+      "id": "canal",
+      "revision": 1,
+      "vector": [
+        0.1,
+        0.2
+      ],
+      "metadata": {
+        "area": "副中心",
+        "kind": "观演"
+      }
+    },
+    {
+      "id": "market",
+      "revision": 1,
+      "vector": [
+        0.3,
+        0.1
+      ],
+      "metadata": {
+        "area": "朝阳",
+        "kind": "文创"
+      }
+    }
+  ],
+  "query": [
+    0.2,
+    0.2
+  ]
+}
